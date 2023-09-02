@@ -34,7 +34,7 @@
 - Proxy Suport
 - Highly Customizable
 - So Many Functions To Test
-- Constant Updates On Telegram (https://t.me/faded_changelog)
+- Constant Updates On Telegram (https://t.me/faded_changelog) -> (Discontinued Entirely)
 
 ---
 
