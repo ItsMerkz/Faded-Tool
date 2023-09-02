@@ -1,0 +1,1 @@
+python -m nuitka --follow-imports --onefile --windows-icon-from-ico=icon.ico faded.py

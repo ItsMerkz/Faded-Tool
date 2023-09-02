@@ -1,0 +1,27 @@
+{
+    "Proxy": {
+        "Use_Proxy": true
+    },
+    "Captcha": {
+        "Api": 5,
+        "Captcha_key": "b89f8d11-43c4-43f3-8695-80b9d0894707"
+    },
+    "General": {
+        "hide_token": true
+    },
+    "Guild": {
+        "bypass_membership_screening": true
+    },
+    "User": {
+        "solvecaptcha_on_friendreq": true,
+        "friend_delay": true,
+        "delay": 10
+    },
+    "Advanced": {
+        "tls_client": true,
+        "JA3": "771,4865-4867-4866-49195-49199-52393-52392-49196-49200-49162-49161-49171-49172-156-157-47-53,0-23-65281-10-11-16-5-34-51-43-13-45-28-41,29-23-24-25-256-257,0"
+    }, 
+    "Developer": {
+        "debug": false
+    }
+}
